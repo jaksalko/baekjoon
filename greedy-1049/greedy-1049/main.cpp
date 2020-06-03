@@ -11,7 +11,7 @@ using namespace std;
 
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    int N,M;
+    cin >> N >> M;
     return 0;
 }
